@@ -29,8 +29,7 @@ I am an ambitious computer science and Design, an open-source enthusiast, Full S
   
 #### 🌍 Connect Me On
 
-[![instagram badge](https://img.shields.io/badge/instagram-harshit_saxena_08?style=social&logo=instagram)](https://instagram.com/
-prashant__gangwar11)<br/>
+[![instagram badge](https://img.shields.io/badge/instagram-harshit_saxena_08?style=social&logo=instagram)]<br/>
 [![linkedin badge](https://img.shields.io/badge/linkedin-harshitsaxena8?style=social&logo=linkedin)](https://www.linkedin.com/in/prashant-gangwar-1919681bb/)
 
 
