@@ -4,7 +4,7 @@
 
 I am an ambitious computer science and Design, an open-source enthusiast, Full Stack Mern Developer and a curious person to learn new things every day and improve myself. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work delightful.
 
-- 🌱 I’m currently a Btech undergrat at Dayananda Sagar College of Engineering Bangalore .
+- 🌱 I am currently pursuing my undergraduate degree (B.Tech) at Dayananda Sagar College of Engineering, Bangalore
 - ❤️ I have developed a Love for MERN.
 - 💬 Ask me about Full Stack Web Development
 - 😄 Pronouns: He/His/Him
