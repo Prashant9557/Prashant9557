@@ -2,7 +2,7 @@
 
 #### 👨🏻‍💻 About Me 
 
-I am an ambitious computer science and Design, an open-source enthusiast, Full Stack Mern Developer and a curious person to learn new things every day and improve myself. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work delightful.
+I am an ambitious computer science and Design, an open-source enthusiast, Full Stack Mern Developer and a curious person to learn new things every day and improve myself. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work delightful.<br>-  I’m looking to collaborate on the projects related to full stack dev and data structures...<br>-  How to reach me mail me on prashantgangwra2002@gmail.com
 
 - 🌱 I am currently pursuing my undergraduate degree (B.Tech) at Dayananda Sagar College of Engineering, Bangalore
 - ❤️ I have developed a Love for MERN.
@@ -30,7 +30,7 @@ I am an ambitious computer science and Design, an open-source enthusiast, Full S
 #### 🌍 Connect Me On
 
 [![instagram badge](https://img.shields.io/badge/instagram-prashant__gangwar11?style=social&logo=instagram)](https://www.instagram.com/prashant__gangwar11/)<br/>
-[![linkedin badge](https://img.shields.io/badge/linkedin-prashant-gangwar-1919681bb?style=social&logo=linkedin)](https://www.linkedin.com/in/prashant-gangwar-1919681bb)
+[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prashant-gangwar-1919681bb/) 
 
 
 <br/>
