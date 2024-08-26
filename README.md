@@ -30,7 +30,15 @@ I am an ambitious computer science and Design, an open-source enthusiast, Full S
 #### 🌍 Connect Me On
 
 [![instagram badge](https://img.shields.io/badge/instagram-prashant__gangwar11?style=social&logo=instagram)](https://www.instagram.com/prashant__gangwar11/)<br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-gangwar-1919681bb/)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-prashant--gangwar-1919681bb?style=social&logo=linkedin)](https://www.linkedin.com/in/prashant-gangwar-1919681bb/)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.netlify.app/api?username=prashant9557&theme=calm&hide_border=true&include_all_commits=true&count_private=false)<br/>
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=prashant9557&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
